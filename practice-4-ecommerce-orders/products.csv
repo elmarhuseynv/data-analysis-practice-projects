@@ -1,0 +1,13 @@
+product_id,name,category,price,cost
+P01,Headphones,Electronics,79.0,48.0
+P02,Phone Case,Electronics,15.0,5.0
+P03,Smart Speaker,Electronics,59.0,38.0
+P04,Desk Lamp,Home,35.0,29.0
+P05,Cookware Set,Home,"90,00",76.0
+P06,Vacuum Bottle,Home,25.0,20.0
+P07,T-Shirt,Clothing,20.0,7.0
+P08,Jacket,Clothing,85.0,40.0
+P09,Sneakers,Clothing,70.0,33.0
+P10,Yoga Mat,Sports,30.0,12.0
+P11,Dumbbell Set,Sports,60.0,35.0
+P12,Fitness Band,Sports,45.0,24.0
